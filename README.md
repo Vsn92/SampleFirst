@@ -1,2 +1,2 @@
-# SampleFirst
+# SampleSecond
 Edited Version 1
