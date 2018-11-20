@@ -1,9 +1,14 @@
-
 public class newSample {
 
+	private String name;
+	public newSample(String x)
+	{
+		this.name=x;
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hi");
+		newSample abc=new newSample();
+		System.out.println(abc.name);
 	}
 
 }
